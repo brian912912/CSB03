@@ -76,7 +76,7 @@
 #     print('tháng không hợp lệ')
 # else:
 #     if m ==2:
-#         print('tháng này có 28 ngày')
+#         print('tháng này có 28 ngày hoặc năm nhuận có 29 ngày')
 #     elif (m == 1) or (m == 3) or (m == 5) or (m == 7) or (m == 8) or (m == 10) or (m == 12) :
 #         print('tháng này có 31 ngày')
 #     else:
