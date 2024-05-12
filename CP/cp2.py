@@ -136,7 +136,10 @@ pop = [247100, 333300, 266800, 420900, 318000]
 
 h = max(pop)
 j = pop.index(h)
-
+print('dân số nhìu nhất',dist[j])
+k = min(pop)
+l = pop.index(k)
+print('dân số ít nhất',dist[l])
 
 
 
